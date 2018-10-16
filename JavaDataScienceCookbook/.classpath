@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="libs/SeleniumWebdriver/guava-25.0-jre.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/SeleniumWebdriver/gson-2.8.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/Apache Tika/tika-app-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/Univocity/univocity-parsers-2.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/JDOM/jdom-2.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/JSONSimple/json-simple-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/JSOUP/jsoup-1.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/MySQLconnector/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/SeleniumWebdriver/selenium-api-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/SeleniumWebdriver/selenium-chrome-driver-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/SeleniumWebdriver/selenium-edge-driver-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/SeleniumWebdriver/selenium-firefox-driver-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/SeleniumWebdriver/selenium-ie-driver-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/SeleniumWebdriver/selenium-java-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/SeleniumWebdriver/selenium-opera-driver-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/SeleniumWebdriver/selenium-remote-driver-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/SeleniumWebdriver/selenium-safari-driver-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/SeleniumWebdriver/selenium-support-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commonsIO/commons-io-2.6-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commonsIO/commons-io-2.6-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commonsIO/commons-io-2.6-test-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commonsIO/commons-io-2.6-tests.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commonsIO/commons-io-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/SeleniumWebdriver/okhttp-3.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="libs/SeleniumWebdriver/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="libs/ApacheLucene/lucene-analyzers-common-7.3.0.jar"/>
+	<classpathentry kind="lib" path="libs/ApacheLucene/lucene-core-7.3.0.jar"/>
+	<classpathentry kind="lib" path="libs/ApacheLucene/lucene-queryparser-7.3.0.jar"/>
+	<classpathentry kind="lib" path="libs/GRAL/gral-core-0.10.jar"/>
+	<classpathentry kind="lib" path="libs/GRAL/gral-examples-0.10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
